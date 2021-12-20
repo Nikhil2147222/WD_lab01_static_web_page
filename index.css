@@ -1,0 +1,289 @@
+body{
+    margin: 0;
+    background: #fc4a1a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    overflow-x: hidden;
+    
+}
+
+/*-------------------Header start ---------------------------*/
+header{
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    align-items: center;
+    background-color: rgb(21, 24, 20);
+    min-height: 20vh;
+    font-family: 'Merriweather', serif;
+
+}
+header img{
+    max-width: 250px;
+    padding: 2em;
+    margin-left: 5em;
+    justify-content: center;
+
+}
+
+header h1{   
+    background-color: #d9381e;
+    background: #fc4a1a;  /* fallback for old browsers */
+    
+    padding: 1.5em;
+    border-radius: 1em  0 0 1em;
+    font-size: 3rem;
+}
+/*-------------------Header End---------------------------*/
+
+/*-------------------navbar Start ---------------------------*/
+
+
+.navbar{
+  display:grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap:2.5em;
+  padding:1% 20%;
+  justify-content:center;
+  text-align: center;
+  
+}
+
+.navbar  a{
+  text-decoration: none;
+  font-size: 1.5em;
+  font-weight: 500;
+  color:rgb(0, 0, 0);
+  padding: 1em;
+  border-radius: 5em;
+  transition:.4s;
+}
+
+
+.navbar a:hover{
+  background-color: rgb(21, 26, 31);
+  color: #f7b733;
+}
+
+.active{
+  background-color:rgb(194, 71, 0);
+  color: white;
+}
+
+/*-------------------navbar End ---------------------------*/
+
+
+
+/*-------------------Section start ---------------------------*/
+section{
+  background-color: rgb(224, 180, 99);
+  background-image: url('MEDIA/carback.jpg');
+  background: linear-gradient(rgb(72,0,72,0.8), rgb(192,72,72,0.8)), url("MEDIA/sidecarbg.png"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(rgba(31, 19, 31, 0.8), rgb(192,72,72,0.8)), url("MEDIA/carback.jpg");  /* Chrome 10-25, Safari 5.1-6 */
+  background-size: cover;
+  padding: 5%;
+}
+
+.upper{
+display:grid;
+grid-template-columns: 1fr 1fr;
+align-items: center;
+}
+.carimg{
+padding: 3em;
+}
+.carimg img{
+width: 100%;
+border-right: 3px solid #d9381e;
+}
+
+.cartext {
+  color: #cac37e;
+  padding: 3em;
+  font-family:'Merriweather', serif;
+  font-weight: 500;
+}
+
+
+
+.lower{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 1em;
+justify-items: center;
+
+padding: 2em;
+text-align: center;
+}
+
+.lower img{
+box-sizing: border-box;
+max-width: 300px;
+align-items: center;
+padding: 10%;
+
+}
+.lower div{
+background-color: #ec8e00;
+border-radius: .5em;
+padding: .5em;
+transition:1s;
+box-shadow: 4px 4px 10px 1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 4px 4px 10px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 4px 10px 1px rgba(0,0,0,0.75);
+}
+
+.lower div:hover{
+background-color: rgb(247, 199, 111);
+}
+
+.cartext h1 , h2 , h3{
+  animation: right_to_left 3s ease-out;
+}
+
+@keyframes right_to_left {
+  0% {
+    margin-left: -60%;
+    margin-right: 60%;
+    color:transparent;
+    overflow-wrap: normal;
+  }
+
+  25% {
+    margin-left: -40%;
+    margin-right: 40%;
+    color:transparent;
+    overflow-wrap: normal;
+  }
+
+  50% {
+    margin-left: -20%;
+    margin-right: 20%;
+    overflow-wrap: normal;
+  }
+
+  100% {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+
+/*-------------------Section End ---------------------------*/
+
+/*-------------------Footer start ---------------------------*/
+footer{
+    background: black;  /* fallback for old browsers */
+    
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    justify-items: center;
+    align-items: center;
+    padding:1.2em;
+}
+
+footer h3{
+  margin:0;
+  text-align: center;
+  color: #d9381e;
+}
+
+footer .socialmedia{
+  color:white;
+  padding-right: 10%;
+  border-right: 3px solid #d9381e;
+  display: grid;
+
+}
+
+.socialmedia img{
+  max-width: 50px;
+  padding: 1em 3em;
+}
+/*-------------------Footer End---------------------------*/
+
+/*-------------------Scroll Bar start --------------------*/
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(212, 96, 96); 
+  background-color: black;
+  
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red; 
+  
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+
+/*------------------Scroll bar End-------------------------*/
+
+
+/*------------------RESPONSIVE DESIGN start-------------------------*/
+
+@media screen and (max-width: 992px) {
+
+  
+  .lower{
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .lower img{
+    max-width: 200px;
+  }
+
+  .upper{
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+
+  header{
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  header img{
+    margin-left: 0;
+    padding:0%;
+  }
+  header h1{
+    border-radius: 1em;
+  }
+  .navbar{
+    grid-template-columns: 1fr;
+    padding: 2%;
+    grid-gap:0;
+  }
+
+  .lower{
+    grid-template-columns: 1fr;
+    justify-items: stretch;
+  }
+
+  .lower img{
+    max-width: 220px;
+  }
+
+  .upper{
+    grid-template-columns: 1fr;
+  }
+}
+/*------------------RESPONSIVE DESIGN end-------------------------*/
+
+
