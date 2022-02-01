@@ -1,0 +1,77 @@
+{
+"Services": [
+  {
+    "Service_ID": 101,
+    "Service_name": "Car wash",
+    "Service_cost": 2980,
+    "Service_duration": 3
+  },
+  {
+    "Service_ID": 102,
+    "Service_name": "Engine oil change",
+    "Service_cost": 4000,
+    "Service_duration": 1
+  },
+  {
+    "Service_ID": 103,
+    "Service_name": "Tyre replacement",
+    "Service_cost": 6000,
+    "Service_duration": 1
+  },
+  {
+    "Service_ID": 104,
+    "Service_name": "Brakes replacement",
+    "Service_cost": 4500,
+    "Service_duration": 2
+  },
+  {
+    "Service_ID": 105,
+    "Service_name": "Dent removal",
+    "Service_cost": 2000,
+    "Service_duration": 3
+  },
+  {
+    "Service_ID": 106,
+    "Service_name": "Side mirror",
+    "Service_cost": 3299,
+    "Service_duration": 2
+  },
+  {
+    "Service_ID": 107,
+    "Service_name": "Seat replacement",
+    "Service_cost": 7800,
+    "Service_duration": 3
+  },
+  {
+    "Service_ID": 108,
+    "Service_name": "Gear problem",
+    "Service_cost": 5600,
+    "Service_duration": 3
+  },
+  {
+    "Service_ID": 109,
+    "Service_name": "wheel alignment",
+    "Service_cost": 7899,
+    "Service_duration": 2
+  },
+  {
+    "Service_ID": 110,
+    "Service_name": "Brake pad wash",
+    "Service_cost": 5600,
+    "Service_duration": 1
+  },
+  {
+    "Service_ID": 111,
+    "Service_name": "exhaust replacement",
+    "Service_cost": 3400,
+    "Service_duration": 3
+  },
+  {
+    "Service_ID": 112,
+    "Service_name": "Headlamps replacement",
+    "Service_cost": 2300,
+    "Service_duration": 2
+  }
+]
+
+}
