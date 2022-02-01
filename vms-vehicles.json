@@ -1,7 +1,7 @@
 ﻿{
     "Vehicles": [
         {
-            "V_id": "1",
+            "V_id": 1,
             "reg_no": "KA01HQ7767",
             "carmake": "Hyundai",
             "model": "Verna",
@@ -11,7 +11,7 @@
             "past_services": "2"
         },
         {
-            "V_id": "2",
+            "V_id": 2,
             "reg_no": "KA02HH8989",
             "carmake": "Hyundai",
             "model": "Venue",
@@ -21,7 +21,7 @@
             "past_services": "9"
         },
         {
-            "V_id": "3",
+            "V_id": 3,
             "reg_no": "TN24BT9080",
             "carmake": "KIA",
             "model": "Seltos",
@@ -31,7 +31,7 @@
             "past_services": "1"
         },
         {
-            "V_id": "4",
+            "V_id": 4,
             "reg_no": "MH02KK2384",
             "carmake": "Hyundai",
             "model": "Creta",
@@ -41,7 +41,7 @@
             "past_services": "6"
         },
         {
-            "V_id": "5",
+            "V_id": 5,
             "reg_no": "KA05AB0012",
             "carmake": "Skoda",
             "model": "Rapid",
@@ -51,7 +51,7 @@
             "past_services": "4"
         },
         {
-            "V_id": "6",
+            "V_id": 6,
             "reg_no": "KA02CG8900",
             "carmake": "Hyundai",
             "model": "i20",
@@ -61,7 +61,7 @@
             "past_services": "10"
         },
         {
-            "V_id": "7",
+            "V_id": 7,
             "reg_no": "KA54AB6008",
             "carmake": "Jaguar",
             "model": "ftype",
@@ -71,7 +71,7 @@
             "past_services": "1"
         },
         {
-            "V_id": "8",
+            "V_id": 8,
             "reg_no": "TN01VG7809",
             "carmake": "Tata",
             "model": "Tiago",
@@ -81,7 +81,7 @@
             "past_services": "3"
         },
         {
-            "V_id": "9",
+            "V_id": 9,
             "reg_no": "MH20LU0087",
             "carmake": "Mahindra",
             "model": "XUV300",
@@ -91,7 +91,7 @@
             "past_services": "3"
         },
         {
-            "V_id": "10",
+            "V_id": 10,
             "reg_no": "KA03BY7888",
             "carmake": "Maruthi Suzuki",
             "model": "Breza",
@@ -101,7 +101,7 @@
             "past_services": "13"
         },
         {
-            "V_id": "11",
+            "V_id": 11,
             "reg_no": "KA90HJ8989",
             "carmake": "Tata",
             "model": "Tigor",
@@ -111,7 +111,7 @@
             "past_services": "6"
         },
         {
-            "V_id": "12",
+            "V_id": 12,
             "reg_no": "KA78BH4567",
             "carmake": "Audi",
             "model": "R8",
@@ -121,7 +121,7 @@
             "past_services": "1"
         },
         {
-            "V_id": "13",
+            "V_id": 13,
             "reg_no": "KA12BY4213",
             "carmake": "Maruthi Suzuki",
             "model": "Swift",
@@ -131,7 +131,7 @@
             "past_services": "3"
         },
         {
-            "V_id": "14",
+            "V_id": 14,
             "reg_no": "KA01BB3346",
             "carmake": "Maruthi Suzuki",
             "model": "Baleno",
@@ -141,7 +141,7 @@
             "past_services": "2"
         },
         {
-            "V_id": "15",
+            "V_id": 15,
             "reg_no": "TN02BB0909",
             "carmake": "Tata",
             "model": "Altroz",
@@ -151,7 +151,7 @@
             "past_services": "3"
         },
         {
-            "V_id": "16",
+            "V_id": 16,
             "reg_no": "KA01CC8900",
             "carmake": "BMW",
             "model": "3series",
@@ -161,7 +161,7 @@
             "past_services": "1"
         },
         {
-            "V_id": "17",
+            "V_id": 17,
             "reg_no": "KA09KS8988",
             "carmake": "Tata",
             "model": "Tiago",
