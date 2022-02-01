@@ -1,0 +1,164 @@
+﻿{
+    "vehicles": [
+        {
+            "1": "2",
+            "2": "9",
+            "2020": "2011",
+            "KA01HQ7767": "KA02HH8989",
+            "Hyundai": "Hyundai",
+            "Verna": "Venue",
+            "sedan": "SUV",
+            "petrol": "diesel"
+        },
+        {
+            "1": "4",
+            "2": "1",
+            "2020": "2019",
+            "KA01HQ7767": "TN24BT9080",
+            "Hyundai": "KIA",
+            "Verna": "Seltos",
+            "sedan": "SUV",
+            "petrol": "petrol"
+        },
+        {
+            "1": "13",
+            "2": "6",
+            "2020": "2016",
+            "KA01HQ7767": "MH02KK2384",
+            "Hyundai": "Hyundai",
+            "Verna": "Creta",
+            "sedan": "SUV",
+            "petrol": "diesel"
+        },
+        {
+            "1": "12",
+            "2": "4",
+            "2020": "2015",
+            "KA01HQ7767": "KA05AB0012",
+            "Hyundai": "Skoda",
+            "Verna": "Rapid",
+            "sedan": "sedan",
+            "petrol": "diesel"
+        },
+        {
+            "1": "11",
+            "2": "10",
+            "2020": "2013",
+            "KA01HQ7767": "KA02CG8900",
+            "Hyundai": "Hyundai",
+            "Verna": "i20",
+            "sedan": "hatchback",
+            "petrol": "petrol"
+        },
+        {
+            "1": "10",
+            "2": "1",
+            "2020": "2021",
+            "KA01HQ7767": "KA54AB6008",
+            "Hyundai": "Jaguar",
+            "Verna": "ftype",
+            "sedan": "superacar",
+            "petrol": "petrol"
+        },
+        {
+            "1": "9",
+            "2": "3",
+            "2020": "2019",
+            "KA01HQ7767": "TN01VG7809",
+            "Hyundai": "Tata",
+            "Verna": "Tiago",
+            "sedan": "hatchback",
+            "petrol": "petrol"
+        },
+        {
+            "1": "2",
+            "2": "3",
+            "2020": "2018",
+            "KA01HQ7767": "MH20LU0087",
+            "Hyundai": "Mahindra",
+            "Verna": "XUV300",
+            "sedan": "SUV",
+            "petrol": "diesel"
+        },
+        {
+            "1": "8",
+            "2": "13",
+            "2020": "2015",
+            "KA01HQ7767": "KA03BY7888",
+            "Hyundai": "Maruthi Suzuki",
+            "Verna": "Breza",
+            "sedan": "SUV",
+            "petrol": "petrol"
+        },
+        {
+            "1": "6",
+            "2": "6",
+            "2020": "2018",
+            "KA01HQ7767": "KA90HJ8989",
+            "Hyundai": "Tata",
+            "Verna": "Tigor",
+            "sedan": "sedan",
+            "petrol": "petrol"
+        },
+        {
+            "1": "4",
+            "2": "1",
+            "2020": "2020",
+            "KA01HQ7767": "KA78BH4567",
+            "Hyundai": "Audi",
+            "Verna": "R8",
+            "sedan": "supercar",
+            "petrol": "petrol"
+        },
+        {
+            "1": "3",
+            "2": "3",
+            "2020": "2017",
+            "KA01HQ7767": "KA12BY4213",
+            "Hyundai": "Maruthi Suzuki",
+            "Verna": "Swift",
+            "sedan": "hatchback",
+            "petrol": "petrol"
+        },
+        {
+            "1": "1",
+            "2": "2",
+            "2020": "2018",
+            "KA01HQ7767": "KA01BB3346",
+            "Hyundai": "Maruthi Suzuki",
+            "Verna": "Baleno",
+            "sedan": "hatchback",
+            "petrol": "diesel"
+        },
+        {
+            "1": "5",
+            "2": "3",
+            "2020": "2016",
+            "KA01HQ7767": "TN02BB0909",
+            "Hyundai": "Tata",
+            "Verna": "Altroz",
+            "sedan": "Hatchback",
+            "petrol": "petrol"
+        },
+        {
+            "1": "7",
+            "2": "1",
+            "2020": "2019",
+            "KA01HQ7767": "KA01CC8900",
+            "Hyundai": "BMW",
+            "Verna": "3series",
+            "sedan": "sedan",
+            "petrol": "petrol"
+        },
+        {
+            "1": "14",
+            "2": "1",
+            "2020": "2020",
+            "KA01HQ7767": "KA09KS8988",
+            "Hyundai": "Tata",
+            "Verna": "Tiago",
+            "sedan": "hatchback",
+            "petrol": "diesel"
+        }
+    ]
+}
