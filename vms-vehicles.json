@@ -88,7 +88,7 @@
             "type": "SUV",
             "fueltype": "diesel",
             "purchase_year": "2018-05-04",
-            "past_services": "3"
+            "past_services": 3
         },
         {
             "V_id": 10,
