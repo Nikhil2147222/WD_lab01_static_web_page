@@ -7,7 +7,7 @@
             "model": "Verna",
             "type": "sedan",
             "fueltype": "petrol",
-            "purchase_year": 2020-01-14,
+            "purchase_year": "2020-01-14",
             "past_services": 2
         },
         {
@@ -17,7 +17,7 @@
             "model": "Venue",
             "type": "SUV",
             "fueltype": "diesel",
-            "purchase_year": 2011-06-14,
+            "purchase_year": "2011-06-14",
             "past_services": 9
         },
         {
@@ -27,7 +27,7 @@
             "model": "Seltos",
             "type": "SUV",
             "fueltype": "petrol",
-            "purchase_year": 2019-11-24,
+            "purchase_year": "2019-11-24",
             "past_services": 1
         },
         {
@@ -37,7 +37,7 @@
             "model": "Creta",
             "type": "SUV",
             "fueltype": "diesel",
-            "purchase_year": 2016-12-24,
+            "purchase_year": "2016-12-24",
             "past_services": 6
         },
         {
@@ -47,7 +47,7 @@
             "model": "Rapid",
             "type": "sedan",
             "fueltype": "diesel",
-            "purchase_year": 2015-11-04,
+            "purchase_year": "2015-11-04",
             "past_services": 4
         },
         {
@@ -57,7 +57,7 @@
             "model": "i20",
             "type": "hatchback",
             "fueltype": "petrol",
-            "purchase_year": 2013-06-24,
+            "purchase_year": "2013-06-24",
             "past_services": 10
         },
         {
@@ -67,7 +67,7 @@
             "model": "ftype",
             "type": "superacar",
             "fueltype": "petrol",
-            "purchase_year": 2021-08-04,
+            "purchase_year": "2021-08-04",
             "past_services": 1
         },
         {
@@ -77,7 +77,7 @@
             "model": "Tiago",
             "type": "hatchback",
             "fueltype": "petrol",
-            "purchase_year": 2019-09-04,
+            "purchase_year": "2019-09-04",
             "past_services": 3
         },
         {
@@ -97,7 +97,7 @@
             "model": "Breza",
             "type": "SUV",
             "fueltype": "petrol",
-            "purchase_year": 2015-02-04,
+            "purchase_year": "2015-02-04",
             "past_services": 13
         },
         {
@@ -107,7 +107,7 @@
             "model": "Tigor",
             "type": "sedan",
             "fueltype": "petrol",
-            "purchase_year": 2018-08-02,
+            "purchase_year": "2018-08-02",
             "past_services": 6
         },
         {
@@ -117,7 +117,7 @@
             "model": "R8",
             "type": "supercar",
             "fueltype": "petrol",
-            "purchase_year": 2020-09-09,
+            "purchase_year": "2020-09-09",
             "past_services": 1
         },
         {
@@ -127,7 +127,7 @@
             "model": "Swift",
             "type": "hatchback",
             "fueltype": "petrol",
-            "purchase_year": 2017-03-04,
+            "purchase_year": "2017-03-04",
             "past_services": 3
         },
         {
@@ -137,7 +137,7 @@
             "model": "Baleno",
             "type": "hatchback",
             "fueltype": "diesel",
-            "purchase_year": 2018-08-03,
+            "purchase_year": "2018-08-03",
             "past_services": 2
         },
         {
@@ -147,7 +147,7 @@
             "model": "Altroz",
             "type": "Hatchback",
             "fueltype": "petrol",
-            "purchase_year": 2016-08-31,
+            "purchase_year": "2016-08-31",
             "past_services": 3
         },
         {
@@ -157,7 +157,7 @@
             "model": "3series",
             "type": "sedan",
             "fueltype": "petrol",
-            "purchase_year": 2019-05-17,
+            "purchase_year": "2019-05-17",
             "past_services": 1
         },
         {
@@ -167,7 +167,7 @@
             "model": "Tiago",
             "type": "hatchback",
             "fueltype": "diesel",
-            "purchase_year": 2020-12-04,
+            "purchase_year": "2020-12-04",
             "past_services": 1
         }
     ]
